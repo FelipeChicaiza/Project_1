@@ -25,4 +25,4 @@ card format
 
 Here's a walkthrough of implemented required features:
 
-<img src='./assets/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
